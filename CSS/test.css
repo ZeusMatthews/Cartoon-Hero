@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    font-size: 30px;
+    color: #210f86;
+}
+
+h2{
+    color: lawngreen;
+    font-size: 20px;
+}
+
+h2{
+    color: grey;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: orangered;
+}
+
+h1 span{
+    color: teal;
+}
